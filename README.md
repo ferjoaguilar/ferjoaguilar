@@ -1,4 +1,5 @@
 ## Hi, I'm Fernando Aguilar 👋
+### Software engineer 💻
 
 ![My personal brand](https://res.cloudinary.com/feraguilar695/image/upload/v1664327087/portfolio/personalbrand_ifvdcq.png)
 
