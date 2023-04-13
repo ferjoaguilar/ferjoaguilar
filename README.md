@@ -1,13 +1,9 @@
-![My personal brand](https://res.cloudinary.com/feraguilar695/image/upload/v1664327087/portfolio/personalbrand_ifvdcq.png)
+![My personal brand](https://res.cloudinary.com/feraguilar695/image/upload/v1681418074/portfolio/profile_jt5k9m.png)
 
-## Hi, I'm Fernando Aguilar 👋
+## Hello, I'm Fernando Aguilar 👋
 
-I’m a software engineer and full-stack developer. My favorite lenguage is TypeScript. I have created many projects for different organizations from little apps to client and server ecosystems. Others my habilities about me: 
-- 🖌 I'm create mockups in Figma.
-- 📦 I'm create devops systems.
-- 🧐 I'm doing testing all the time.
-- 🧡 I like working in group.
-- :heart: I love TypeScript
+I’m a software engineer and full-stack developer in Golang, NodeJS and Rust.  I have created many projects for different companies and organizations from little web applications to REST API's, Graphql API's, React interfaces, Mokups, Database design and data engineering. 
+
 
 ## About me 
 
